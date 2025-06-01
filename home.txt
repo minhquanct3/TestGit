@@ -1,2 +1,3 @@
 thêm từ host
 ok thêm từ local
+thêm từ host để đụng độ
