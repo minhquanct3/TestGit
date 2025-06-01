@@ -1,1 +1,2 @@
 thêm từ host
+ok thêm từ local
